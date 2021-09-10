@@ -1,0 +1,13 @@
+
+
+### STS ###
+.apt_generated
+.classpath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+
+.DS_Store
