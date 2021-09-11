@@ -18,13 +18,12 @@ function App() {
           </div>
           <div className = "col-sm-6">
             <h5 className = "text-center text-secondary">Todas Vendas</h5>
-            <BarChart />
+            <DonutChart />
           </div>
         </div>
 
         <div className = "py-3">
-          <h5 className = "text-primary">Todas Vendas</h5>
-          <DonutChart />
+          <h2 className = "text-primary">Todas Vendas</h2>
         </div>
 
         <DataTable />
