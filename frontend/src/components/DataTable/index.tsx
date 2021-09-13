@@ -60,7 +60,3 @@ const DataTable = () => {
 }
 
 export default DataTable;
-
-function useEffects(arg0: () => void) {
-    throw new Error("Function not implemented.");
-}
